@@ -8,7 +8,7 @@ I’m Archana Singh, **Senior Software Engineer**, cloud architect, and .NET ent
 - Build systems that are secure, observable, and maintainable.
 
 ## Focusing on:
-- Building distributed systems and RESTful APIs with .NET 7/8, ASP.NET Core, EF Core 
+- Building distributed systems and RESTful APIs with .NET 10, ASP.NET Core, EF Core 
 - Designing microservices and modular monoliths with DDD and CQRS principles
 - Implementing CI/CD pipelines using Azure DevOps & GitHub Actions 
 - Securing cloud applications with Azure AD, OAuth2, and Key Vault 
@@ -21,7 +21,7 @@ Every day, I apply Clean/ONION Architecture, OOP/SOLID principles, and automate 
 C#, .NET 7/8/10, ASP.NET Core, Web API, Entity Framework Core
 
 ## Architecture:
-Clean Architecture, Microservices, Modular Monolith, DDD, CQRS, Event-Driven Design
+Clean/ONION Architecture, Microservices, DDD, CQRS, Event-Driven Design, Modular Monolith
 
 ## Cloud & DevOps:
 Azure App Service, Azure SQL, Blob Storage, Key Vault, Azure Functions, GitHub Actions, Azure DevOps Pipelines, Docker
