@@ -14,11 +14,11 @@ I’m Archana Singh, **Senior Software Engineer**, cloud architect, and .NET ent
 - Securing cloud applications with Azure AD, OAuth2, and Key Vault 
 - Optimising SQL and API performance for data-heavy enterprise systems 
 
-Every day, I apply Clean Architecture, OOP/SOLID principles and automate testing to deliver software that scales and lasts.
+Every day, I apply Clean/ONION Architecture, OOP/SOLID principles, and automate testing to deliver software that scales and lasts.
 
 ## My Focus Areas
 ## Core Stack:
-C#, .NET 8, ASP.NET Core, Web API, Entity Framework Core
+C#, .NET 7/8/10, ASP.NET Core, Web API, Entity Framework Core
 
 ## Architecture:
 Clean Architecture, Microservices, Modular Monolith, DDD, CQRS, Event-Driven Design
@@ -30,7 +30,7 @@ Azure App Service, Azure SQL, Blob Storage, Key Vault, Azure Functions, GitHub A
 SQL Server, REST APIs, Messaging (RabbitMQ/Service Bus), Caching (Redis)
 
 ## Testing & Quality:
-Unit and Integration Testing, NUnit, xUnit, Moq,
+Unit and Integration Testing, NUnit, xUnit, Moq
 
 ## Frontend:
 HTML, CSS3, JavaScript, jQuery 
@@ -38,21 +38,21 @@ HTML, CSS3, JavaScript, jQuery
 ## Engineering Principles
 - **Automate everything:** builds, tests, and deployments
 - **Design for failure:** resilience and observability first
-- **Measure everything:** structured logs and telemetry with Application Insights
+- **Measure everything:** structured logs and telemetry with Application Insights and Serilog
 - **Ship often: faster** iteration cycles through CI/CD
 - **Code for humans:** clarity and maintainability above all
 
 ## Current Focus
-- Upgrading legacy systems to .NET 8 microservices
+- Upgrading legacy systems to .NET 10 microservices
 - Implementing zero-downtime deployments via Azure DevOps
 - Designing observability pipelines with Serilog and Application Insights
 - Applying DDD tactical patterns for modular system design
 
 ## Featured Projects
 ## Warehouse Management System
-- Microservice architecture supporting product tracking, for purchase orders, shipment tracking, and services invoicing, warehouse operations, with RESTful APIs and real-time data processing, event publishing, and API versioning.
+- Microservice architecture supporting product tracking for purchase orders, shipment tracking, and service invoicing; warehouse operations, with RESTful APIs and real-time data processing, event publishing, and API versioning.
 - Includes integration testing and full CI/CD automation.
-- **Tech:** C#, ASP.NET Core, .NET 7, CQRS, Restful APIs, MediatR, AutoMapper, EF Core, TDD, xUnit, MOQ, SQL Server, Docker, GitHub Actions, etc.
+- **Tech:** C#, ASP.NET Core, .NET 7/8/10, CQRS, RESTful APIs, MediatR, AutoMapper, EF Core, TDD, xUnit, MOQ, SQL Server, Docker, Azure DevOps CI/CD piplines, etc.
 
 ## Warehouse Scheduling Calendar System
 - Automated stock in/out operations with scheduling, real-time updates, and logging.
@@ -82,7 +82,7 @@ HTML, CSS3, JavaScript, jQuery
 
 ## SQL Server Database Design & Migration Projects
 - Designed and migrated enterprise-scale databases for business domains, including schema and database development, T-SQL queries, stored procedures, indexing strategies, and data integrity checks.
-- **Tech:** T-SQL, SSRS, MS-SQL Server
+- **Tech:** T-SQL, SSRS, MS SQL Server
 
 ## Airline Reservation System (Master’s Dissertation Project)
 - Developed a full-stack airline reservation system with flight scheduling, booking, seat management, and payment integration.
